@@ -1,0 +1,14 @@
+.lagg-btn {
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    background-color: #43627F;
+    color: #fff;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: bold;
+    padding: 10px 40px;
+    transition: all .3s ease-in-out; }
+    .lagg-btn:hover {
+      background-color: #1c2c3b;
+      color: #fff; }
